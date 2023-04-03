@@ -1,5 +1,5 @@
 package service
 
 import (
-	_ "xyhelper-web/modules/demo/model"
+	_ "github.com/xyhelper/xyhelper-web/modules/demo/model"
 )

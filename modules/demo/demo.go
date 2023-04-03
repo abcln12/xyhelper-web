@@ -1,6 +1,6 @@
 package demo
 
 import (
-	_ "xyhelper-web/modules/demo/controller"
-	_ "xyhelper-web/modules/demo/middleware"
+	_ "github.com/xyhelper/xyhelper-web/modules/demo/controller"
+	_ "github.com/xyhelper/xyhelper-web/modules/demo/middleware"
 )

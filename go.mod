@@ -1,4 +1,4 @@
-module xyhelper-web
+module github.com/xyhelper/xyhelper-web
 
 go 1.18
 
