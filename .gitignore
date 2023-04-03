@@ -23,3 +23,8 @@ logs/
 public/uploads/
 gf
 data/cool.sqlite
+cool-admin-go
+go.work
+go.work.sum
+node_modules
+.pnpm-store
